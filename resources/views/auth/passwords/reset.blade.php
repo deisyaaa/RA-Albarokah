@@ -5,6 +5,8 @@
     <div class="row justify-content-center">
         <div class="col-md-8">
             <div class="card">
+                <!-- Halaman ini adalah form untuk mereset password user -->
+                <!-- User dapat mengisi email, password baru, dan konfirmasi password untuk melakukan reset password -->
                 <div class="card-header">{{ __('Reset Password') }}</div>
 
                 <div class="card-body">
